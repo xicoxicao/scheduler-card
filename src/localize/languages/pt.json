@@ -31,7 +31,7 @@
       "select_option": "selecionar opção[ {option}]"
     },
     "light": {
-      "turn_on": "ligar[ com {brightness} brightness]"
+      "turn_on": "ligar[ com {brightness} de brilho]"
     },
     "media_player": {
       "select_source": "selecionar origem[ {source}]"
@@ -87,7 +87,7 @@
       "time": {
         "absolute": "Às {time}",
         "interval": "das {startTime} às {endTime}",
-        "at_midnight": "ao meia-noite",
+        "at_midnight": "à meia-noite",
         "at_noon": "ao meio-dia",
         "at_sun_event": "ao {sunEvent}"
       }
